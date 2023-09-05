@@ -89,8 +89,8 @@ console.log(numbers)
 /* ESERCIZIO 8
   Crea un algoritmo per verificare che un valore fornito sia un numero oppure no (suggerimento: cerca su un motore di ricerca "typeof").
 */
-
-/* SCRIVI QUI LA TUA RISPOSTA */
+let number1 = 30
+console.log(typeof number1)
 
 /* ESERCIZIO 9
   Crea un algoritmo per controllare se un numero fornito sia pari o dispari (suggerimento: cerca l'operatore modulo su un motore di ricerca)
